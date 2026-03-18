@@ -6,7 +6,7 @@ Built for personal use to manage and monitor job search progress efficiently.
 ![Job Tracker](image.png)
 
 ## Live Demo
-[**Job Tracker**](https://vercel.com/calara045-oss-projects/calara-job-tracker) - try it now on Vercel
+[**Job Tracker**](https://j0b-tracker.vercel.app/) - try it now on Vercel
 
 ## 🚀 Getting Started
 
